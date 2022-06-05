@@ -1,0 +1,1 @@
+create table fitdance (name varchar(128) not null);

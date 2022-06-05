@@ -1,0 +1,8 @@
+*.pyc
+*.*~
+*.swp
+run.py
+build
+celerybeat-schedule
+*.log
+.coverage
